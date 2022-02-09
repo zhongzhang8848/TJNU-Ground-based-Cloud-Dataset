@@ -12,10 +12,7 @@ The TJNU ground-based cloud dataset (GCD) is collected from 2019 to 2020 in nine
   journal = {IEEE Transactions on Geoscience and Remote Sensing},  
   volume = {60},   
   pages = {1-11},  
-  year = {2022}, 
-  volume = {60},
-  pages = {1-11},
-  year = {2022}, 
+  year = {2022},  
   publisher = {IEEE}  
 }
 
